@@ -1,62 +1,63 @@
-# 👋 Hi, I'm Maxw311nyimbili
+# Maxwell Nyimbili  
+**@Maxw311nyimbili**
 
-Welcome to my GitHub portfolio!  
-I’m a passionate **software developer** focused on building practical, scalable, and well-structured solutions. I enjoy learning new technologies, solving real-world problems, and continuously improving my craft.
+**Software Developer | Computer Science (B.Sc.)**
 
----
+I’m a software developer who builds a wide range of systems — from APIs and backend services to full-stack applications and experimental tools.
 
-## 🚀 About Me
-
-- 💻 Software Developer & Tech Enthusiast  
-- 📚 Always learning and exploring new tools and frameworks  
-- 🛠️ Interested in building clean, maintainable, and efficient systems  
-- 🌍 Open to collaboration on meaningful projects  
+I work across domains depending on the problem. Sometimes that means AI-assisted systems, other times internal tools, mobile apps, or web products. I care about clean design, reliable engineering, and building software that actually gets used.
 
 ---
 
-## 🧰 Tech Stack
-
-Here are some of the technologies and tools I work with:
-
-- **Languages:** Python, JavaScript, Java  
-- **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js, Express  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-
-*(This list evolves as I continue learning 🚀)*
+## 🔍 What I Work On
+- Full-stack application development  
+- Backend systems, APIs, and data pipelines  
+- Applied AI when it adds real value  
+- Systems that are maintainable, reliable, and understandable  
 
 ---
 
-## 📂 Featured Projects
-
-Here are some projects you’ll find on my GitHub:
-
-- 🔹 **Project Name** – Brief description of what the project does and the problem it solves  
-- 🔹 **Project Name** – Key technologies used and main functionality  
-- 🔹 **Project Name** – What you learned or improved while building it  
-
-👉 Check the repositories below for full details, setup instructions, and demos.
+## 🧠 Interests
+- Software architecture and system design  
+- Practical problem-solving with code  
+- Product thinking and developer experience  
+- Learning new stacks and adapting to new problem spaces  
 
 ---
 
-## 📈 What I Focus On
-
-- Writing clean and readable code  
-- Following best practices and project structure  
-- Learning by building real projects  
-- Improving problem-solving and debugging skills  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to learning, collaboration, and new opportunities.
-
-- 💼 GitHub: [https://github.com/Maxw311nyimbili](https://github.com/Maxw311nyimbili)
-- 📧 Email: *(add your email here if you want)*
+## 🛠️ Technical Stack
+**Languages:** Python, TypeScript, JavaScript, SQL  
+**Backend:** FastAPI, Node.js, REST APIs  
+**Frontend / Mobile:** React, React Native, Expo  
+**Data / AI:** Databases, embeddings, LLM tooling, applied ML  
+**Infra:** Docker, Railway, Firebase, PostgreSQL  
+**Design:** Figma, product-oriented UI/UX  
 
 ---
 
-⭐ If you find my work interesting, feel free to **star** a repository or reach out.  
-Thanks for stopping by!
+## 📌 Selected Work
+I’ve built and experimented with:
+- AI-powered applications   
+- Mobile and web platforms  
+- Internal tools, dashboards, and APIs  
+- Research prototypes and production systems  
+
+---
+
+## 🌍 Philosophy
+> I like building things that are useful, understandable, and solid.  
+> Good software should be flexible enough to grow and boring enough to trust.
+
+---
+
+## 📫 Contact
+- GitHub: **@Maxw311nyimbili**  
+- Portfolio: https://portfolio-silk-theta-28.vercel.app/  
+ 
+
+---
+
+## 📊 Language Focus
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxw311nyimbili&layout=compact&hide_border=true&langs_count=6" />
+</p>
