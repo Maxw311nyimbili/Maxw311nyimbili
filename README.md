@@ -3,7 +3,7 @@
 
 **Software Developer | Computer Science (B.Sc.)**
 
-I’m a software developer who builds a wide range of systems — from APIs and backend services to full-stack applications and experimental tools.
+I’m a software developer who builds a wide range of systems, from APIs and backend services to full-stack applications and experimental tools.
 
 I work across domains depending on the problem. Sometimes that means AI-assisted systems, other times internal tools, mobile apps, or web products. I care about clean design, reliable engineering, and building software that actually gets used.
 
