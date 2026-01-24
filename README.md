@@ -1,90 +1,62 @@
-# Maxwell Nyimbili
+# 👋 Hi, I'm Maxw311nyimbili
 
-**@Maxw311nyimbili**
-
-**Computer Science (B.Sc.) | Digital Health | AI for Low‑Resource Contexts**
-
-I build evidence‑based, human‑centered software at the intersection of AI, health, and equity. My work focuses on **reliable medical information retrieval**, **claim verification**, and **offline‑first systems** for low‑resource settings.
+Welcome to my GitHub portfolio!  
+I’m a passionate **software developer** focused on building practical, scalable, and well-structured solutions. I enjoy learning new technologies, solving real-world problems, and continuously improving my craft.
 
 ---
 
-## 🔍 Current Focus
+## 🚀 About Me
 
-* **Thanzi** — an AI‑powered, multilingual maternal health platform designed for low‑connectivity African contexts
-
-  * Sentence‑level accuracy filtering & claim verification
-  * Community validation + evidence retrieval from trusted medical sources
-  * Offline‑first, privacy‑aware mobile architecture
-
----
-
-## 🧠 Interests
-
-* Medical AI safety & hallucination mitigation
-* Knowledge graphs for claim verification
-* Evidence‑based UX for health applications
-* Low‑resource NLP (multilingual, code‑switching)
-* Ethical deployment of AI in public health
+- 💻 Software Developer & Tech Enthusiast  
+- 📚 Always learning and exploring new tools and frameworks  
+- 🛠️ Interested in building clean, maintainable, and efficient systems  
+- 🌍 Open to collaboration on meaningful projects  
 
 ---
 
-## 🛠️ Technical Stack
+## 🧰 Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL
-**AI / Data:** LLMs, RAG, knowledge graphs, embeddings, claim verification pipelines
-**Backend:** FastAPI, Node.js, REST APIs
-**Mobile / Frontend:** React Native, Expo, React
-**Infra:** Docker, Railway, Firebase, PostgreSQL
-**Design:** Figma, mobile UX systems
+Here are some of the technologies and tools I work with:
 
----
+- **Languages:** Python, JavaScript, Java  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code  
 
-## 📌 Selected Projects
-
-### Thanzi — Digital Maternal Health Platform
-
-Evidence‑driven AI system providing safe maternal health guidance in low‑connectivity environments.
-
-* Graph‑based medical claim verification
-* Epistemic filtering to reduce hallucinations
-* Multilingual & offline‑capable architecture
-
-### Medical Claim Verification Experiments
-
-Research prototypes exploring faster, graph‑based verification versus sequential database searches.
+*(This list evolves as I continue learning 🚀)*
 
 ---
 
-## 📄 Research & Writing
+## 📂 Featured Projects
 
-* *Thanzi: Evidence‑Based Digital Health for Equity* — Applied Project Proposal (B.Sc. Computer Science)
-* Topics include hallucination breakdowns, epistemic filters, and validation pipelines for medical AI
+Here are some projects you’ll find on my GitHub:
 
----
+- 🔹 **Project Name** – Brief description of what the project does and the problem it solves  
+- 🔹 **Project Name** – Key technologies used and main functionality  
+- 🔹 **Project Name** – What you learned or improved while building it  
 
-## 🌍 Philosophy
-
-> *Accuracy is not optional in health.*
-> Systems should know **what they know**, **what they don’t**, and **when to stay silent**.
+👉 Check the repositories below for full details, setup instructions, and demos.
 
 ---
 
-## 📫 Contact
+## 📈 What I Focus On
 
-* GitHub: **@Maxw311nyimbili**
-* Portfolio: [https://portfolio-silk-theta-28.vercel.app/](https://portfolio-silk-theta-28.vercel.app/)
-* Organization: @codewithmuta
-
----
-
-## 📊 Language Focus
-
-Rather than vanity metrics, this reflects where I actually spend my engineering time.
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxw311nyimbili&layout=compact&hide_border=true&langs_count=6" />
-</p>
+- Writing clean and readable code  
+- Following best practices and project structure  
+- Learning by building real projects  
+- Improving problem-solving and debugging skills  
 
 ---
 
-*Always open to collaboration on digital health, AI safety, and applied research.*
+## 🤝 Let’s Connect
+
+I’m always open to learning, collaboration, and new opportunities.
+
+- 💼 GitHub: [https://github.com/Maxw311nyimbili](https://github.com/Maxw311nyimbili)
+- 📧 Email: *(add your email here if you want)*
+
+---
+
+⭐ If you find my work interesting, feel free to **star** a repository or reach out.  
+Thanks for stopping by!
