@@ -1,63 +1,23 @@
-# Maxwell Nyimbili  
-**@Maxw311nyimbili**
+# Maxwell Nyimbili
 
-**Software Developer | Computer Science (B.Sc.)**
+Software developer in Lusaka, Zambia. Computer science graduate from Ashesi University, currently doing full-stack work at Veste Money (React frontends, Go services). Before that I was at ProBase Group doing backend work on Go microservices.
 
-I’m a software developer who builds a wide range of systems, from APIs and backend services to full-stack applications and experimental tools.
+Most of what I build is backend-leaning full-stack: a FastAPI or Go service doing the interesting work, with a React or Next.js frontend on top. Lately a lot of that has involved LLM pipelines and embeddings.
 
-I work across domains depending on the problem. Sometimes that means AI-assisted systems, other times internal tools, mobile apps, or web products. I care about clean design, reliable engineering, and building software that actually gets used.
+## Projects
 
----
+**[Voyage](https://github.com/Maxw311nyimbili/voyage_backend)** — AI travel itinerary generator. FastAPI backend that prompts Llama 3.3 (via Groq) for structured JSON itineraries, proxies destination imagery, and renders the result as a downloadable PDF with ReportLab. ([frontend](https://github.com/Maxw311nyimbili/voyage_frontend))
 
-## 🔍 What I Work On
-- Full-stack application development  
-- Backend systems, APIs, and data pipelines  
-- Applied AI when it adds real value  
-- Systems that are maintainable, reliable, and understandable  
+**[FotoFinder](https://github.com/Maxw311nyimbili/FotoFinder_backend)** — visual product search. Extracts image embeddings and runs similarity search over a FAISS index to match products by appearance. ([frontend](https://github.com/Maxw311nyimbili/FotoFinder_frontend))
 
----
+**[Paper Summary](https://github.com/Maxw311nyimbili/paper_summary_backend)** — summarizes research papers and PDFs and pulls out keywords and insights. FastAPI backend, Next.js frontend. ([frontend](https://github.com/Maxw311nyimbili/paper_summary_frontend))
 
-## 🧠 Interests
-- Software architecture and system design  
-- Practical problem-solving with code  
-- Product thinking and developer experience  
-- Learning new stacks and adapting to new problem spaces  
+**[Nkani Aggregator](https://github.com/Maxw311nyimbili/nkani_aggregator)** — news aggregator built with Flask. One of my earlier projects.
 
----
+## Tools
 
-## 🛠️ Technical Stack
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Backend:** FastAPI, Node.js, REST APIs  
-**Frontend / Mobile:** React, React Native, Expo  
-**Data / AI:** Databases, embeddings, LLM tooling, applied ML  
-**Infra:** Docker, Railway, Firebase, PostgreSQL  
-**Design:** Figma, product-oriented UI/UX  
+Python (FastAPI, Flask), Go, TypeScript (React, Next.js, React Native), PostgreSQL, Docker, Firebase. Figma when the design is on me too.
 
----
+## Find me
 
-## 📌 Selected Work
-I’ve built and experimented with:
-- AI-powered applications   
-- Mobile and web platforms  
-- Internal tools, dashboards, and APIs  
-- Research prototypes and production systems  
-
----
-
-## 🌍 Philosophy
-> I like building things that are useful, understandable, and solid.  
-> Good software should be flexible enough to grow and boring enough to trust.
-
----
-
-## 📫 Contact
-- GitHub: **@Maxw311nyimbili**  
-- Portfolio: https://portfolio-silk-theta-28.vercel.app/  
- 
-
----
-
-## 📊 Language Focus
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxw311nyimbili&layout=compact&hide_border=true&langs_count=6" />
-</p>
+Portfolio: [portfolio-silk-theta-28.vercel.app](https://portfolio-silk-theta-28.vercel.app/)
