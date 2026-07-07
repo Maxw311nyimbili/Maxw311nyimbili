@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Maxwell%20Nyimbili&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%26%20Applied%20AI&descSize=18&descAlignY=75" alt="banner" />
+<img width="100%" src="banner.svg" alt="Maxwell Nyimbili — Full-Stack Developer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Building+backend-heavy+full-stack+apps;LLM+pipelines+%26+embeddings;FastAPI+%E2%80%A2+Go+%E2%80%A2+React" alt="Typing SVG" />
@@ -48,31 +48,27 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Maxw311nyimbili/voyage_backend">
-        <img src="https://socialify.git.ci/Maxw311nyimbili/voyage_backend/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Voyage" />
-      </a>
-      <p align="center"><b>Voyage</b> — AI travel itineraries via Llama 3.3 (Groq), exported as styled PDFs<br /><sub>FastAPI · Groq · ReportLab · <a href="https://github.com/Maxw311nyimbili/voyage_frontend">frontend ↗</a></sub></p>
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Maxw311nyimbili/voyage_backend">Voyage</a></b><br />
+      AI travel itineraries via Llama 3.3 (Groq), exported as styled PDFs<br />
+      <sub>FastAPI · Groq · ReportLab · <a href="https://github.com/Maxw311nyimbili/voyage_frontend">frontend ↗</a></sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Maxw311nyimbili/FotoFinder_backend">
-        <img src="https://socialify.git.ci/Maxw311nyimbili/FotoFinder_backend/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="FotoFinder" />
-      </a>
-      <p align="center"><b>FotoFinder</b> — visual product search with image embeddings + FAISS similarity<br /><sub>Python · FAISS · <a href="https://github.com/Maxw311nyimbili/FotoFinder_frontend">frontend ↗</a></sub></p>
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Maxw311nyimbili/FotoFinder_backend">FotoFinder</a></b><br />
+      Visual product search with image embeddings + FAISS similarity<br />
+      <sub>Python · FAISS · <a href="https://github.com/Maxw311nyimbili/FotoFinder_frontend">frontend ↗</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Maxw311nyimbili/paper_summary_backend">
-        <img src="https://socialify.git.ci/Maxw311nyimbili/paper_summary_backend/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Paper Summary" />
-      </a>
-      <p align="center"><b>Paper Summary</b> — summarizes papers &amp; PDFs, extracts keywords and insights<br /><sub>FastAPI · Next.js · <a href="https://github.com/Maxw311nyimbili/paper_summary_frontend">frontend ↗</a></sub></p>
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Maxw311nyimbili/paper_summary_backend">Paper Summary</a></b><br />
+      Summarizes papers &amp; PDFs, extracts keywords and insights<br />
+      <sub>FastAPI · Next.js · <a href="https://github.com/Maxw311nyimbili/paper_summary_frontend">frontend ↗</a></sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Maxw311nyimbili/nkani_aggregator">
-        <img src="https://socialify.git.ci/Maxw311nyimbili/nkani_aggregator/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Nkani Aggregator" />
-      </a>
-      <p align="center"><b>Nkani Aggregator</b> — Flask-powered news aggregator, one of my earliest builds<br /><sub>Flask · Python</sub></p>
+    <td width="50%" align="center">
+      <b><a href="https://github.com/Maxw311nyimbili/nkani_aggregator">Nkani Aggregator</a></b><br />
+      Flask-powered news aggregator, one of my earliest builds<br />
+      <sub>Flask · Python</sub>
     </td>
   </tr>
 </table>
@@ -94,4 +90,4 @@
 
 <p align="center"><i>Good software should be flexible enough to grow and boring enough to trust.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" alt="footer" />
+<img width="100%" src="footer.svg" alt="" />
