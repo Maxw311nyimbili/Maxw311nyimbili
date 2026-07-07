@@ -1,0 +1,34 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#2a2e4a"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="260" rx="10"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <g opacity="0.5">
+      <path d="M-200,190 C100,150 300,230 500,195 C700,160 900,225 1100,190 C1250,165 1350,210 1400,195 L1400,260 L-200,260 Z" fill="#414868">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -60 0; 0 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.35">
+      <path d="M-200,215 C50,185 350,245 600,212 C850,182 1050,240 1250,210 C1330,198 1380,220 1400,214 L1400,260 L-200,260 Z" fill="#70a5fd">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 50 0; 0 0" dur="11s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.3">
+      <path d="M-200,235 C100,215 400,255 700,232 C950,215 1150,248 1400,230 L1400,260 L-200,260 Z" fill="#7dcfff">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -40 0; 0 0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0">
+      <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="1">Maxwell Nyimbili</text>
+      <text x="600" y="152" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a9b1d6" letter-spacing="3">FULL-STACK DEVELOPER &#8226; BACKEND &amp; APPLIED AI</text>
+      <animate attributeName="opacity" from="0" to="1" dur="1.4s" fill="freeze"/>
+    </g>
+  </g>
+</svg>

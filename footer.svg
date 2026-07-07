@@ -1,0 +1,24 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="90" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#2a2e4a"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="90" rx="10"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="90" fill="url(#bg)"/>
+    <g opacity="0.5">
+      <path d="M-200,45 C100,70 300,20 500,42 C700,64 900,22 1100,45 C1250,62 1350,30 1400,42 L1400,0 L-200,0 Z" fill="#414868">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -60 0; 0 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.35">
+      <path d="M-200,30 C50,50 350,10 600,32 C850,54 1050,12 1250,32 C1330,40 1380,22 1400,28 L1400,0 L-200,0 Z" fill="#70a5fd">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 50 0; 0 0" dur="11s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</svg>
