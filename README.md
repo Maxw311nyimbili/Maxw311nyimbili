@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Maxwell Nyimbili</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Backend+%26+Applied+AI;FastAPI+%E2%80%A2+Go+%E2%80%A2+React" alt="Typing SVG" />
@@ -75,12 +75,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maxw311nyimbili&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxw311nyimbili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxw311nyimbili&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maxw311nyimbili&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxw311nyimbili&theme=tokyonight" alt="Top languages by repo" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Maxw311nyimbili&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxw311nyimbili&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
