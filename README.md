@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Backend+%26+Applied+AI;FastAPI+%E2%80%A2+Go+%E2%80%A2+React" alt="Typing SVG" />
 </p>
@@ -80,7 +79,7 @@
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxw311nyimbili&theme=tokyonight" alt="Top languages by repo" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Maxw311nyimbili&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxw311nyimbili&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
