@@ -76,12 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxw311nyimbili&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
-  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxw311nyimbili&layout=compact&theme=tokyonight" alt="Top languages by repo" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxw311nyimbili&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
