@@ -14,14 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=Maxw311nyimbili&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
-## About Me
+## 🧑‍💻 About Me
 
 - 💼 Full-stack at **Veste Money** — React frontends, Go services
 - ⚙️ Previously backend at **ProBase Group**, optimizing Go microservices
 - 🎓 Computer Science — **Ashesi University**
 - 🌍 **Lusaka, Zambia** 🇿🇲
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -73,15 +73,15 @@
   </tr>
 </table>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxw311nyimbili&theme=tokyonight" alt="Profile details" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxw311nyimbili&theme=tokyonight" alt="Top languages by repo" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxw311nyimbili&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
