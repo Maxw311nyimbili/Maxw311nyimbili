@@ -73,21 +73,6 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxw311nyimbili&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxw311nyimbili&layout=compact&theme=tokyonight" alt="Top languages by repo" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxw311nyimbili&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxw311nyimbili&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
 <p align="center"><i>Good software should be flexible enough to grow and boring enough to trust.</i></p>
 
 <img width="100%" src="footer.svg" alt="" />
